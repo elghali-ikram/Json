@@ -1,6 +1,6 @@
 body
 {
-    background: url(/Mon\ projet.jpg)no-repeat;
+    background: url(/back.jpeg)no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -13,11 +13,3 @@ body
     background-color: rgba(0, 0, 0, 0.429);
 }
 
-.asc i[class="fa-solid fa-sort-up"],.dsc i[class="fa-solid fa-sort-down"]
-{
-    display: none;
-}
-.dsc  i[class="fa-solid fa-sort-up"],.asc i[class="fa-solid fa-sort-down"]
-{
-    display: block;
-}

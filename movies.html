@@ -12,21 +12,23 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="d-flex flex-column  justify-content-center align-items-center m-3  vertical-box">
+    <div class="d-flex flex-column  justify-content-center align-items-center   vertical-box">
         <div class="d-md-flex justify-content-between mb-3 w-75">
-
               <nav aria-label="Page navigation example">
                 <ul class="pagination" id="pagination-numbers">
-
                 </ul>
               </nav>
-              <div class="input-group w-25 mb-3">
-                <input type="search" class="form-control" id="inputsearch" placeholder="Search....">
-                
+              <div>
+                <div class="input-group w-75">
+                  <input type="search" class="form-control" id="inputsearch" placeholder="Search....">
+                  <button class="btn bg-dark text-white" type="button" id="btn-search"><i class="fas fa-search"></i></button>
+                </div>
+                <small class="text-danger" id="error"></small>
               </div>
         </div> 
+        <p></p>
         <div class="table-responsive w-75">
-            <table class="table-bordered background text-white">
+            <table class="table  text-white">
                 <thead>
                   <th class="col">Poster</th>
                   <th class="col">Titre <span></span></th>
@@ -37,8 +39,6 @@
                   <th class="col">Acteurs </th>
                 </thead>
                 <tbody  id="listmovies">
-                  
-
                 </tbody>
               </table>
         </div>     
