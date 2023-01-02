@@ -1,234 +1,234 @@
 [
     {
-        "titre":"They Shall Not Grow Old",
-        "réalisateur":"Peter Jackson",
-       "durée":99,
+       "title":"They Shall Not Grow Old",
+        "director":"Peter Jackson",
+       "time":99,
        "production":2018,
-       "Poster":"https://m.media-amazon.com/images/M/MV5BZWI3ZThmYzUtNDJhOC00ZWY4LThiNmMtZDgxNjE3Yzk4NDU1XkEyXkFqcGdeQXVyNTk5Nzg1NjQ@._V1_SX300.jpg",
-       "Festivals":["shorts not pants","not film fest"],
-       "Acteurs":[
+       "poster":"https://m.media-amazon.com/images/M/MV5BZWI3ZThmYzUtNDJhOC00ZWY4LThiNmMtZDgxNjE3Yzk4NDU1XkEyXkFqcGdeQXVyNTk5Nzg1NjQ@._V1_SX300.jpg",
+       "festivals":["shorts not pants","not film fest"],
+       "actors":[
         {
-            "nom":"Mark",
-            "prénom":"Kermode",
-            "Nationalité":" Royaume-Uni"
+            "firstname":"Mark",
+            "lastname":"Kermode",
+            "nationality":" Royaume-Uni"
         },
         {
-            "nom":"Peter",
-            "prénom":"Jackson",
-            "Nationalité":"Wellington"
+            "firstname":"Peter",
+            "lastname":"Jackson",
+            "nationality":"Wellington"
         }
        ]
     
     },
     {
-        "titre":"Parasite",
-        "réalisateur":"Bong Joon-ho",
-        "durée":132,
+        "title":"Parasite",
+        "director":"Bong Joon-ho",
+        "time":132,
         "production":2019,
-        "Poster":"https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
-        "Festivals":["The South Western International Film Festival","Emerging Screenwriters Drama Screen"],
-        "Acteurs":[
+        "poster":"https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+        "festivals":["The South Western International Film Festival","Emerging Screenwriters Drama Screen"],
+        "actors":[
             {
-                "nom":"Kang-ho",
-                "prénom":"Song",
-                "nationalité":"sud-Korean"
+                "firstname":"Kang-ho",
+                "lastname":"Song",
+                "nationality":"sud-Korean"
             },
             {
-                "nom":"Sun-kyun",
-                "prénom":"Lee",
-                "nationalité":"sud-coréen"
+                "firstname":"Sun-kyun",
+                "lastname":"Lee",
+                "nationality":"sud-coréen"
             }
         ]
     },
     {
-        "titre":"The Irishman",
-        "réalisateur":"Martin Scorsese",
-        "durée":209,
+        "title":"The Irishman",
+        "director":"Martin Scorsese",
+        "time":209,
         "production":2019,
-        "Poster":"https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
-        "Festivals":["The Jazzies","International Film Festival The Hague"],
-        "Acteurs":[
+        "poster":"https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
+        "festivals":["The Jazzies","International Film Festival The Hague"],
+        "actors":[
             {
-                "nom":"De Niro",
-                "prénom":"Robert",
-                "nationalité":"italien"
+                "firstname":"De Niro",
+                "lastname":"Robert",
+                "nationality":"italien"
             },
             {
-                "nom":"Al ",
-                "prénom":"Pacino",
-                "nationalité":"italien"
-            }
-        ]
-
-    },
-    {
-        "titre":"Knives Out",
-        "réalisateur":"Rian Johnson",
-        "durée":130,
-        "production":2019,
-        "Poster":"https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg",
-        "Festivals":["Short Out","Art Speaks Out"],
-        "Acteurs":[
-            {
-                "nom":"Craig",
-                "prénom":"Daniel",
-                "nationalité":"Britannique Américaine"
-            },
-            {
-                "nom":"Evans",
-                "prénom":"Chris",
-                "nationalité":"américain"
+                "firstname":"Al ",
+                "lastname":"Pacino",
+                "nationality":"italien"
             }
         ]
 
     },
     {
-        "titre":"Once Upon a Time... in Hollywood",
-        "réalisateur":"Quentin Tarantino",
-        "durée":161,
+        "title":"Knives Out",
+        "director":"Rian Johnson",
+        "time":130,
         "production":2019,
-        "Poster":"https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX300.jpg",
-        "Festivals":["Topaz Film Festival by Women in Film Dallas","Universe In A Glass"],
-        "Acteurs":[
+        "poster":"https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg",
+        "festivals":["Short Out","Art Speaks Out"],
+        "actors":[
             {
-                "nom":"DiCaprio",
-                "prénom":"Leonardo",
-                "nationalité":"Américaine"
+                "firstname":"Craig",
+                "lastname":"Daniel",
+                "nationality":"Britannique Américaine"
             },
             {
-                "nom":"Brad",
-                "prénom":"Pitt",
-                "nationalité":"Américain"
+                "firstname":"Evans",
+                "lastname":"Chris",
+                "nationality":"américain"
             }
         ]
 
     },
     {
-        "titre":"Pain & Gain",
-        "réalisateur":"Michael Bay",
-       "durée":129,
+        "title":"Once Upon a Time... in Hollywood",
+        "director":"Quentin Tarantino",
+        "time":161,
+        "production":2019,
+        "poster":"https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX300.jpg",
+        "festivals":["Topaz Film Festival by Women in Film Dallas","Universe In A Glass"],
+        "actors":[
+            {
+                "firstname":"DiCaprio",
+                "lastname":"Leonardo",
+                "nationality":"Américaine"
+            },
+            {
+                "firstname":"Brad",
+                "lastname":"Pitt",
+                "nationality":"Américain"
+            }
+        ]
+
+    },
+    {
+        "title":"Pain & Gain",
+        "director":"Michael Bay",
+       "time":129,
        "production":2013,
-       "Poster":"https://m.media-amazon.com/images/M/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_SX300.jp",
-       "Festivals":["GENESIS","concept 2 reel film festival"],
-       "Acteurs":[
+       "poster":"https://m.media-amazon.com/images/M/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_SX300.jp",
+       "festivals":["GENESIS","concept 2 reel film festival"],
+       "actors":[
         {
-            "nom":"Mark",
-            "prénom":"Wahlberg",
-            "Nationalité":"Boston, Massachusetts"
+            "firstname":"Mark",
+            "lastname":"Wahlberg",
+            "nationality":"Boston, Massachusetts"
         },
         {
-            "nom":"Dwayne",
-            "prénom":"Johnson",
-            "Nationalité":"Californie"
+            "firstname":"Dwayne",
+            "lastname":"Johnson",
+            "nationality":"Californie"
         },
         {
-            "nom":"Tony",
-            "prénom":"Shalhoub",
-            "Nationalité":"Wisconsin"
+            "firstname":"Tony",
+            "lastname":"Shalhoub",
+            "nationality":"Wisconsin"
         }
        ]
     
     },
     {
-        "titre":"Marriage Story",
-        "réalisateur":"Noah Baumbach",
-       "durée":137 ,
+        "title":"Marriage Story",
+        "director":"Noah Baumbach",
+       "time":137 ,
        "production":2019,
-       "Poster":"https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
-       "Festivals":["the story of space","catalyst story institute"],
-       "Acteurs":[
+       "poster":"https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+       "festivals":["the story of space","catalyst story institute"],
+       "actors":[
         {
-            "nom":"Adam",
-            "prénom":"Driver",
-            "Nationalité":"San Diegog"
+            "firstname":"Adam",
+            "lastname":"Driver",
+            "nationality":"San Diegog"
         },
         {
-            "nom":"Julia",
-            "prénom":"Greer",
-            "Nationalité":"Russia"
+            "firstname":"Julia",
+            "lastname":"Greer",
+            "nationality":"Russia"
         },
         {
-            "nom":"Azhy",
-            "prénom":"Robertson",
-            "Nationalité":"Brooklyn"
+            "firstname":"Azhy",
+            "lastname":"Robertson",
+            "nationality":"Brooklyn"
         }
        ]
     
     },
     {
-       "titre":"Little Women",
-       "réalisateur":"Greta Gerwig",
-       "durée":115,
+       "title":"Little Women",
+       "director":"Greta Gerwig",
+       "time":115,
        "production":1994,
-       "Poster":"https://m.media-amazon.com/images/I/91MCxPWGWqL.jpg",
-       "Festivals":["little islands festival","women X film festival"],
-       "Acteurs":[
+       "poster":"https://m.media-amazon.com/images/I/91MCxPWGWqL.jpg",
+       "festivals":["little islands festival","women X film festival"],
+       "actors":[
         {
-            "nom":"Winona",
-            "prénom":"Ryder",
-            "Nationalité":"Minnesota"
+            "firstname":"Winona",
+            "lastname":"Ryder",
+            "nationality":"Minnesota"
         },
         {
-            "nom":"Gabriel",
-            "prénom":"Byrne",
-            "Nationalité":"Dublin"
+            "firstname":"Gabriel",
+            "lastname":"Byrne",
+            "nationality":"Dublin"
         },
         {
-            "nom":"Trini",
-            "prénom":"Alvarado",
-            "Nationalité":" New York"
+            "firstname":"Trini",
+            "lastname":"Alvarado",
+            "nationality":" New York"
         }
        ]
     
     },
     {
-        "titre":"Dolemite Is My Name",
-        "réalisateur":"Craig Brewer",
-       "durée":118,
+        "title":"Dolemite Is My firstname",
+        "director":"Craig Brewer",
+       "time":118,
        "production":2019,
-       "Poster":"https://m.media-amazon.com/images/M/MV5BMzFiYWQxYzgtOThmYi00ZmIwLWFlZWMtMzk2NTI2YTYzMjkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-       "Festivals":["Sunshine Short Film Festival","Festival of Cinema NYC"],
-       "Acteurs":[
+       "poster":"https://m.media-amazon.com/images/M/MV5BMzFiYWQxYzgtOThmYi00ZmIwLWFlZWMtMzk2NTI2YTYzMjkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+       "festivals":["Sunshine Short Film Festival","Festival of Cinema NYC"],
+       "actors":[
         {
-            "nom":"Eddie",
-            "prénom":"Murphy",
-            "Nationalité":"New York"
+            "firstname":"Eddie",
+            "lastname":"Murphy",
+            "nationality":"New York"
         },
         {
-            "nom":"Mike",
-            "prénom":"Epps",
-            "Nationalité":"Indianapolis"
+            "firstname":"Mike",
+            "lastname":"Epps",
+            "nationality":"Indianapolis"
         },
         {
-            "nom":"Craig",
-            "prénom":"Robinson",
-            "Nationalité":"Chicago"
+            "firstname":"Craig",
+            "lastname":"Robinson",
+            "nationality":"Chicago"
         }
        ]
     
     },
     {
-        "titre":"The green mile",
-    "réalisateur":"Frank Darabont",
-       "durée":189,
+        "title":"The green mile",
+    "director":"Frank Darabont",
+       "time":189,
        "production":1999,
-       "Poster":"https://fr.web.img4.acsta.net/medias/nmedia/18/66/15/78/19254683.jpg",
-       "Festivals":["Awards of the Japanese Academy","Chicago Film Critics Association Awards","Directors Guild of America"],
-       "Acteurs":[
+       "poster":"https://fr.web.img4.acsta.net/medias/nmedia/18/66/15/78/19254683.jpg",
+       "festivals":["Awards of the Japanese Academy","Chicago Film Critics Association Awards","Directors Guild of America"],
+       "actors":[
         {
-            "nom":"Michael",
-            "prénom":"Clarke Duncan",
-            "Nationalité":"Chicago"
+            "firstname":"Michael",
+            "lastname":"Clarke Duncan",
+            "nationality":"Chicago"
         },
         {
-            "nom":"tom",
-            "prénom":"Hanks",
-            "Nationalité":"Californie"
+            "firstname":"tom",
+            "lastname":"Hanks",
+            "nationality":"Californie"
         },
         {
-            "nom":"David",
-            "prénom":"Morse",
-            "Nationalité":"Chicago"
+            "firstname":"David",
+            "lastname":"Morse",
+            "nationality":"Chicago"
         }
        ]
     

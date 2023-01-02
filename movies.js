@@ -37,7 +37,7 @@ function pagebuttons(pages) {
     let pagination_numbers=document.getElementById("pagination-numbers")
     pagination_numbers.innerHTML=""
     for (let i = 1; i <= pages; i++) {
-        pagination_numbers.innerHTML +=`<li class="page-item bg-danger"><a class="page-link text-black" >${i}</a></li>`
+        pagination_numbers.innerHTML +=`<li class="page-item"><a class="page-link text-black" >${i}</a></li>`
     }
     let btn_pagination=pagination_numbers.querySelectorAll('.page-item')
     for (let i = 0; i < btn_pagination.length; i++) {
@@ -46,6 +46,8 @@ function pagebuttons(pages) {
             state.page=Number(btn_pagination[i].innerText)
             createtr(arra.queryset)
             pagebuttons(arra.pages)
+
+
         });
     }
 }
@@ -55,27 +57,27 @@ function createtr(mylist)
     let output="";
     for (let i = 0; i < mylist.length; i++) {
         let festivals="";
-        let acteurs="";
-        for (let j = 0; j < mylist[i].Festivals.length; j++) {
+        let actors="";
+        for (let j = 0; j < mylist[i].festivals.length; j++) {
             festivals+=`
             <ul>
-            <li>${(mylist[i].Festivals)[j]}</li>
+            <li>${(mylist[i].festivals)[j]}</li>
             </ul>`
         }
-        for (let k = 0; k < mylist[i].Acteurs.length; k++) {
-            acteurs+=`
+        for (let k = 0; k < mylist[i].actors.length; k++) {
+            actors+=`
             <ul>
-            <li>${(mylist[i].Acteurs)[k].nom} ${(mylist[i].Acteurs)[k].prénom}  ${(mylist[i].Acteurs)[k].nationalité} </li>
+            <li>${(mylist[i].actors)[k].firstname} ${(mylist[i].actors)[k].lastname}  ${(mylist[i].actors)[k].nationality} </li>
             </ul>`
         }
         output += `<tr>
-                <td><img src="${mylist[i].Poster}" alt="movie" width="100px" height="100px"></td>
-                <td>${mylist[i].titre}</td>
-                <td>${mylist[i].réalisateur}</td>
-                <td>${mylist[i].durée}</td>
+                <td><img src="${mylist[i].poster}" alt="movie" width="100px" height="100px"></td>
+                <td>${mylist[i].title}</td>
+                <td>${mylist[i].director}</td>
+                <td>${mylist[i].time}</td>
                 <td >${mylist[i].production}</td>
                 <td>${festivals}</td>
-                <td>${acteurs}</td>
+                <td>${actors}</td>
       </tr>`
     }
     movies.innerHTML=output
@@ -94,7 +96,6 @@ btn_search.addEventListener("click", function(){
     for (let i = 0; i < array.length; i++) {
         if(input_search.value=="")
         {
-            console.log("dkhel");
             let small= document.getElementById("error")
             console.log(small);
             small.innerHTML="champ obligatoir"
@@ -103,7 +104,6 @@ btn_search.addEventListener("click", function(){
         else if (array[i].titre.toUpperCase().indexOf(input_search.value.toUpperCase()) < 0) {
           movies.innerHTML = `<tr> NOT FOUND IT</tr>`;
         } else if (array[i].titre.toUpperCase().indexOf(input_search.value.toUpperCase()) > -1) {
-            check=true
           movies.innerHTML = "";
           arrow.push(array[i]);
           console.log(arrow);
